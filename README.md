@@ -19,3 +19,8 @@ Wave a flag
 Nice netcat...
 
 6) picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}
+
+NOTE: I've checked all the answers, all are correct. And also the number 5 CTF I've done too but I have a query about that so that's why I'm not included in it
+ 
+
+6) picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}
